@@ -211,7 +211,7 @@ const App: React.FC = () => {
         <div className="w-full bg-red-700/50 rounded-2xl p-4 text-left space-y-2 mb-8 font-mono text-xs max-h-48 overflow-y-auto">
           {panicLog.map((log, i) => (
             <div key={i} className="flex items-center gap-2">
-              <span className="text-red-300">>></span> {log}
+              <span className="text-red-300">&gt;&gt;</span> {log}
             </div>
           ))}
         </div>
