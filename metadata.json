@@ -1,0 +1,7 @@
+{
+  "name": "SafeRoute Companion",
+  "description": "A safety-first multi-modal navigation app that prioritizes comfort, lighting, and accessibility over speed, featuring She Nav for solo women travelers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
